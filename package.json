@@ -1,0 +1,18 @@
+{
+  "name": "tradling",
+  "version": "1.0.0",
+  "description": "This is a test assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "save": "^2.4.0"
+  },
+  "devDependencies": {
+    "cypress": "^3.4.1",
+    "manual-web-socket": "^2.0.1"
+  }
+}
